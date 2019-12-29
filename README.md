@@ -4,7 +4,7 @@
 
 ## Dataset
 
-This is data of 4554806 rides of Ford GoBike System data starting from June 2017 until October 2019. 
+This is data of 4554806 rides of [Lyft Bike Sharing System](https://www.lyft.com/bikes/bay-wheels/system-data) data starting from June 2017 until October 2019. 
 Most variables are categorical except the duration_sec which is duartion of each ride in seconds. 
 We also have two timestamp variables of when the ride start i.e. start_time and end_time i.e. when the ride ended.
 I am interested in following points:- 
