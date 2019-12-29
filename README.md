@@ -17,6 +17,7 @@ I have created following fields to analyse dataset in more depth: -
 - start_time_month :- Month of start time of the ride
 - start_time_year :- Year of start time of the ride
 - start_time_weekday :- Weekday of start time of the ride 
+
 To break down the ride by time of day, day of the week, or month of the year I have selected 
 start_time as it directly relates to when the trip/ride started.
 
